@@ -1,0 +1,19 @@
+{
+  "name": "cursoapi-rest-js-practico",
+  "version": "1.0.0",
+  "description": "Curso práctico de consumo API REST con JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuaytaSIT/cursoAPI-REST-JS-PRACTICO.git"
+  },
+  "author": "rubendario",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HuaytaSIT/cursoAPI-REST-JS-PRACTICO/issues"
+  },
+  "homepage": "https://github.com/HuaytaSIT/cursoAPI-REST-JS-PRACTICO#readme"
+}
